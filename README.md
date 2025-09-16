@@ -25,7 +25,7 @@ O sistema simula a gestão de um estacionamento, permitindo cadastrar, remover e
 - `Veiculo.cs`: define a classe `Veiculo` (ex.: `Placa`) — representa um carro no sistema.  
 - `Estacionamento.cs`: contém a lógica principal — gerencia a lista de veículos, cadastro, remoção (com cálculo do valor do estacionamento) e listagem.  
 - `Menu.cs`: responsável pela interação com o usuário (exibe o menu e chama os métodos do `Estacionamento`).  
-- `Program.cs`: ponto de entrada (`Main`) que inicializa o sistema e executa o menu.
+- `Programa.cs`: ponto de entrada (`Main`) que inicializa o sistema e executa o menu.
 
 - 📖 Conceitos Aplicados
 
